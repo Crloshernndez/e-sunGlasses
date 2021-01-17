@@ -50,13 +50,6 @@ export class ProductsService {
       description: 'bla bla bla bla bla',
     },
     {
-      id: '1',
-      image: 'assets/images/imagen1.png',
-      title: 'glasses',
-      price: 15,
-      description: 'bla bla bla bla bla',
-    },
-    {
       id: '7',
       image: 'assets/images/imagen7.png',
       title: 'glasses',
